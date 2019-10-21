@@ -2,13 +2,16 @@ raccolta di esercizi vari
 da sottoporre e studiare all 'emulatore 
 https://schweigi.github.io/assembler-simulator/
 
-lezione 1) 
+#### lezione 1) 
 
-lezione 2)
+todo
 
-lezione 3)
+#### lezione 2)
 
-lezione 4) di lunedi 21 oottobre
+todo 
+#### lezione 3)
+todo 
+#### lezione 4) di lunedi 21 oottobre
 
   [loop_infinito_inc.asm](loop_infinito_inc.asm)
 
@@ -20,7 +23,7 @@ lezione 4) di lunedi 21 oottobre
       oppure i miei appunti [qui](assembler.md) 
 
   
-lezione 5)
+#### lezione 5)
 
   dopo aver bene studioato la lezione 4 
 
@@ -33,6 +36,10 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
    
   studiare 
   [ciclo_finito_inc.asm](ciclo_finito_inc.asm)
+  
+  Stufi di dover calcolare l'indirizzo dell'istruzione cui il progemma deve saltare ? 
+  
+  to be continued 
   
    
    
