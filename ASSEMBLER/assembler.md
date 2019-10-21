@@ -1,4 +1,4 @@
-L'assembler ( letteralmente "colui che assembla") consiste essenzialmente nel tradurre 
+Il lavoro delL'assembler ( letteralmente "colui che assembla") consiste essenzialmente nel tradurre 
 un programma, scritto usando le istruzioni del processore,
 dal formato "umano" (_mov a,3_   _inc b_ ecc.) al formato numerico comprensibile dalla CPU.
 
