@@ -1,9 +1,19 @@
-il lavoro dell'assembler ( assembly è il linguaggio ) non è nientaltro che tradurre 
-le istruzioni dal formato "umano" mov inc etcc in formato numerico seguendo le istruzioni 
-del costruttore ideatore del processore che ha satbilito il codice, nel caso della cpu dell'emulatore il signor [Marco Schweighauser](https://github.com/Schweigi )
+L'assembler ( letteralmente "colui che assembla") consiste essenzialmente nel tradurre 
+un programma, scritto usando le istruzioni del processore,
+dal formato "umano" (_mov a,3_   _inc b_ ecc.) al formato numerico comprensibile dalla CPU.
+
+Come  fa a tradurlo? 
+
+Segue le istruzioni del costruttore !
+
+Il progettista ha satbilito un codice per ogni istruzione.
+
+Nel caso dell'emulatore il signor [Marco Schweighauser](https://github.com/Schweigi )
+
+Nel caso di processori reali lIntel l amd ecc.
+
  
- 
-ogni istruzione ha il proprio codice operativo ("numeretto")
+Ogni istruzione ha il proprio codice operativo ("numeretto")
  
 # codifica dei registri
 i registri sono codificatI neL modo seguente:
