@@ -21,15 +21,19 @@ i registri sono codificatI neL modo seguente:
 
 ## MOV - Copy a value 
 
-### MOV  _reg_dst_ , _reg_src_
+```
+MOV  _reg1_ , _reg2_
+```
 
 Codificata con: 
 
-01 _cod_di_dst_ , _cod_di_src_
+01 _cod_di_reg1_ , _cod_di_reg2_
 
-esempio MOV A,B ( copia il valore del registro B in A)
-
+esempio 
+```
+MOV A,B ( copia il valore del registro B in A)
 01 00 01
+```
 
 esempio MOV C,B ( copia il valore del registro B in A)
 
