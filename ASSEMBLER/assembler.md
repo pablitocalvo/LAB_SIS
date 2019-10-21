@@ -3,14 +3,25 @@ le istruzioni dal formato "umano" mov inc etcc in formato numerico seguendo le i
 del costruttore ideatore del processore che ha satbilito il codice, nel caso della cpu dell'emulatore il signor  Marco Schweighauser.
  
  
- ogni istruzione ha il proprio codice operativo ("numeretto")
+ogni istruzione ha il proprio codice operativo ("numeretto")
  
-codifica dei registri
-https://github.com/Schweigi/assembler-simulator/blob/master/src/assembler/asm.js
+## codifica dei registri
+i registri sono codificatI neL modo seguente:
+ 
+   A ---> 00
+   
+   B ---> 01
+   
+   C ---> 02
+   
+   D ---> 03
+   
+   SP --> 04
 
-MOV - Copy a value 
 
-MOV  _reg_dst_ , _reg_src_
+## MOV - Copy a value 
+
+### MOV  _reg_dst_ , _reg_src_
 
 esempio MOV A,B ( copia il valore del registro B in A)
 
