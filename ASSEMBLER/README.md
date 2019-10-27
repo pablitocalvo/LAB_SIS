@@ -39,6 +39,19 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
   
   Stufi di dover calcolare l'indirizzo dell'istruzione cui il progemma deve saltare ? 
   
+  #### lezione 6)
+  L'Assembler (il programma che traduce il programma da codici mnemonici in codici operativi )  
+  è stato dotato di funzionali aggiuntive rispetto alla semplice traduzione
+  
+  guardaTe i seguenti codici 
+   
+   [ciclo_finito_dec_label.asm](ciclo_finito_dec_label.asm)
+   
+   [ciclo_finito_inc.label.asm](ciclo_finito_inc_label.asm)
+   
+   la novità sono delle etichette o Labels ...
+   
+   
   to be continued 
   
    
