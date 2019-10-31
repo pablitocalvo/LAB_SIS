@@ -59,8 +59,11 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
  
  #### lezione 7) 
  [ciclo_02.asm](ciclo_01.asm)
+ 
  [ciclo_03.asm](ciclo_01.asm)
+ 
  [ciclo_04.asm](ciclo_01.asm)
+ 
  [ciclo_01.asm](ciclo_01.asm)
   
  
