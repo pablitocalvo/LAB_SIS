@@ -39,7 +39,7 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
   
   Stufi di dover calcolare l'indirizzo dell'istruzione cui il progemma deve saltare ? 
   
-  #### lezione 6)
+  #### lezione 6) di giovedi 31 ottobre
   L'Assembler (il programma che traduce il programma da codici mnemonici in codici operativi )  
   è stato dotato di funzionali aggiuntive rispetto alla semplice traduzione
   
@@ -51,15 +51,22 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
    
    la novità sono delle etichette o Labels ...
    
-   
-  #### lezione 7)
-  
   studiare bene 
   
   [ciclo_01.asm](ciclo_01.asm)
   
   in questo caso studiare bene significa: _ad ogni click su "step" si è capaci di "indovinare" o pronosticare i cambiamenti avvenuti in RAM e nella CPU (nei registri e Flag) per l'istruzione nuova MOV [a],255 intuire chosa fa .._
-    
+ 
+ #### lezione 7) 
+ [ciclo_02.asm](ciclo_01.asm)
+ [ciclo_03.asm](ciclo_01.asm)
+ [ciclo_04.asm](ciclo_01.asm)
+ [ciclo_01.asm](ciclo_01.asm)
+  
+ 
+
+
+
   to be continued 
   
    
