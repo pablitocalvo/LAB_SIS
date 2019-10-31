@@ -4,7 +4,7 @@
 ciclo:	mov [a], 255  
         inc a
         dec c
-	      jnz ciclo
-	      hlt
+        jnz ciclo
+        hlt
 
 base:   
