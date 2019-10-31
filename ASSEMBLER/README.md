@@ -56,7 +56,7 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
   
   studiare bene 
   
-  [ciclo_01.asm] (ciclo_01.asm)
+  [ciclo_01.asm](ciclo_01.asm)
   
   in questo caso studiare bene significa: _ad ogni click su "step" si è capaci di "indovinare" o pronosticare i cambiamenti avvenuti in RAM e nella CPU (nei registri e Flag) per l'istruzione nuova MOV [a],255 intuire chosa fa .._
     
