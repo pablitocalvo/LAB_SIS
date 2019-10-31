@@ -67,6 +67,31 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
  [ciclo_01.asm](ciclo_01.asm)
   
  
+#### lezione 8)
+
+Direttiva DB 
+
+ [db_01.asm](db_01.asm)
+
+D. cosa fa l'assembler in questo caso ?
+
+R. quando incontra la direttiva DB si limita a copiare il valore scritto di seguito in memoria...
+il programma in questione viene "tradotto" in 06 00 FF 00 e scitto in memoria 
+
+D. Cosa fa la cpu quando esegue questi "numerretti" ? 
+R. Fortuna che nonsono stati messi a caso ... 06 00 FF 00 è il codice operativo di mov a,0xFF   HLT
+....
+
+have you got a big headache? 
+
+Don't worry. Simply remember that DB write in memory the value specified after.
+
+D. A che serve ?
+R. per inizializzare una zona di memoria ....
+
+look at this 
+
+ [db_02.asm](db_02.asm)
 
 
 
