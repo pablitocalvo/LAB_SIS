@@ -2,5 +2,5 @@
 
 #### NAT
 
-https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/13772-12.html
+https://www.cisco.com/c/en/us/support/docs/ip/network-address-translation-nat/13772-12.html#topic3
 
