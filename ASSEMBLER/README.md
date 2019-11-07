@@ -57,14 +57,17 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
   
   in questo caso studiare bene significa: _ad ogni click su "step" si è capaci di "indovinare" o pronosticare i cambiamenti avvenuti in RAM e nella CPU (nei registri e Flag) per l'istruzione nuova MOV [a],255 intuire chosa fa .._
  
- #### lezione 7) 
- [ciclo_02.asm](ciclo_01.asm)
- 
- [ciclo_03.asm](ciclo_01.asm)
- 
- [ciclo_04.asm](ciclo_01.asm)
+ #### lezione 7) di giovedì 7 novembre 
  
  [ciclo_01.asm](ciclo_01.asm)
+  
+ [ciclo_02.asm](ciclo_02.asm)
+ 
+ [ciclo_03.asm](ciclo_03.asm)
+ 
+ [ciclo_04.asm](ciclo_04.asm)
+ 
+
  
  esrcizio per casa : 
  se avete trovato semplice i programmi studiati provate a scrivere voi :
@@ -72,11 +75,11 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
  
  2) un programma che riempia la memoria a partire dall'indirizzo 0x60 con 01 AA 02 AA 03 AA 04 AA 05 AA 06 AA 07 AA 08 AA 09 AA 0A AA
  
-#### lezione 8)
+#### lezione 8)  di giovedì 7 novembre (per chi è riuscito)
 
-TODO : spiegare CMP ....
+in modalità flipped classroom studiare CMP _CMP - Compare_
  
-#### lezione 9)
+#### lezione 9) di giovedì 7 novembre (per chi è riuscito)
 
 Direttiva DB 
 
