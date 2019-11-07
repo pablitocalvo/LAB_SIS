@@ -1,4 +1,4 @@
-### LEZIONE  5 novembre 2019
+### LEZIONE  5 novembre 2019 e 7 novembre 2019
 
 #### NAT
 
