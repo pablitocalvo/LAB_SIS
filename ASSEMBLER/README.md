@@ -57,7 +57,7 @@ _studiato bene significa aver capito, aver capito significa che ad ogni click su
   
   in questo caso studiare bene significa: _ad ogni click su "step" si è capaci di "indovinare" o pronosticare i cambiamenti avvenuti in RAM e nella CPU (nei registri e Flag) per l'istruzione nuova MOV [a],255 intuire chosa fa .._
  
- #### lezione 7) di giovedì 7 novembre 
+ #### lezione 7) di giovedì 7 novembre e 14 novembre in classe
  
  [ciclo_01.asm](ciclo_01.asm)
   
@@ -105,6 +105,16 @@ look at this
 
  [db_02.asm](db_02.asm)
 
+##### lezione 10) 
+
+ [ciclo_04.asm](ciclo_04.asm)
+ 
+ cosa fa la direttiva DB in questo caso ?
+ 
+ questo può essere utile [ascii850.pdf](ascii850.pdf).
+ 
+ 
+ 
 
 
   to be continued 
