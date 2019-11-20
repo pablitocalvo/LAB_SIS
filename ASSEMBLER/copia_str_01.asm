@@ -6,15 +6,15 @@ ciclo:	mov  c,[a]
         mov [b],c
 	
         cmp c,0
-	      jz fineciclo
+        jz fineciclo
 
-	      inc a
+        inc a
         inc b
 
-	      jmp ciclo
+        jmp ciclo
 
 fineciclo:
-	      hlt
+        hlt
 
 stringa:  DB "PABLITOCALVO IS THE BEST!"
           DB 0
