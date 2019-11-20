@@ -126,9 +126,16 @@ look at this
  Scrivere in italiano cosa fa il programma cercando di essere più precisi possibile ...
  
  
+ ##### lezione 12)
+ 
+ [conta_01.asm](conta_01.asm)
  
  
+ Una volta assemblato guardate bene la sezione etichette ( "Labels")
  
+ poi eseguire il programma svariate volte, cambiando la stringa stringa (senza esagerare con il numero di caratteri!!)
+ 
+ Scrivere in italiano cosa fa il programma cercando di essere più precisi possibile ...
 
 
   to be continued 
