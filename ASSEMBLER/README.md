@@ -107,11 +107,25 @@ look at this
 
 ##### lezione 10) 
 
- [ciclo_04.asm](ciclo_04.asm)
+ [ciclo_05.asm](ciclo_05.asm)
  
  cosa fa la direttiva DB in questo caso ?
  
  questo può essere utile [ascii850.pdf](ascii850.pdf).
+ 
+ 
+ ##### lezione 11)
+ 
+ 
+ [copia_str_01.asm](copia_str_01.asm)
+ 
+ Una volta assemblato guardate bene la sezione etichette ( "Labels")
+ 
+ poi eseguire il programma svariate volte, cambiando la stringa stringa (senza esagerare con il numero di caratteri!!)
+ 
+ Scrivere in italiano cosa fa il programma cercando di essere più precisi possibile ...
+ 
+ 
  
  
  
