@@ -140,6 +140,20 @@ look at this
 
   to be continued 
   
+  ##### lezione XX) per chi non ha paura dei mal di testa e per i wannabe hacker ..
+  
+  ora che siete esperti di assembler potete capire qualcosa di questo:
+  
+  https://thestarman.pcministry.com/asm/mbr/GRUB.htm
+  
+  si tratta del MBR del vecchio bios .... 
+  
+  è chiaro che scherzo ma leggendo qualche istruzione forse vi farà piacere riconoscerne qualcuna....
+  
+  se poi capite di più mmi fate felice e vi metto 24 !!!
+  
+  
+  
    
    
    
