@@ -152,9 +152,28 @@ look at this
   
   se poi capite di più mmi fate felice e vi metto 24 !!!
   
+  ##### COMPITO IN CLASSE
   
   
-   
+  qui i testi degli esercizi:
+    
+  
+https://github.com/pablitocalvo/LAB_SIS/blob/master/ASSEMBLER/compito_fila_A.asm
+
+https://github.com/pablitocalvo/LAB_SIS/blob/master/ASSEMBLER/compito_fila_B.asm
+
+https://github.com/pablitocalvo/LAB_SIS/blob/master/ASSEMBLER/compito_fila_U.asm
+
+
+
+qui le soluzioni:
+
+  https://github.com/pablitocalvo/LAB_SIS/blob/master/ASSEMBLER/compito_fila_A_soluzione.png
+  
+  https://github.com/pablitocalvo/LAB_SIS/blob/master/ASSEMBLER/compito_fila_B_soluzione.png
+  
+  https://github.com/pablitocalvo/LAB_SIS/blob/master/ASSEMBLER/compito_fila_U_soluzione.png
+  
    
    
    
