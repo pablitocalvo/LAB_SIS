@@ -82,3 +82,44 @@ MOV C, 255
 
 
 e così via, chi ha tempo e voglia di un votone può continuare queste note .....
+
+DB serve per definire le variabili (es. numeri, variabili stringhe etc..)
+Esempio: 
+*costante* DB
+
+Operatori INC, DEC
+INC serve per incrementare un registro di uno, modificano i flag e gli 0, lo stack pointer (SP) può essere usato con INC e DEC...
+DEC invece decrementa il registro di uno.
+
+Esempio: INC a
+(incrementa di 1 a)
+DEC b
+(decrementa di uno b)
+
+JMP salto
+Questa istruzione consente al puntatore di effettuare un salto fino all'indirizzo desiderato
+Esempio: JMP con un ciclo:
+ciclo:	mov  c,[a]
+        mov [b],c
+
+        inc a
+        inc b
+
+        jmp ciclo
+        
+esistono anche vari tipi di jmp a seconda delle condizioni..
+esempio
+jz si usa quando deve saltare se è zero
+jnz invece si usa quando deve saltare e non c'è lo zero
+e così via...
+
+in fine (per ora) esiste HLT che è un comando che arresta il processore
+esempio usando il ciclo di prima:
+ciclo:	mov  c,[a]
+        mov [b],c
+
+        inc a
+        inc b
+
+        jmp ciclo
+HLT
